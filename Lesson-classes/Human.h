@@ -1,5 +1,6 @@
 #pragma once
 #include "iostream"
+#include "Mammal.h"
 
 using namespace std;
 
